@@ -13,7 +13,7 @@ The first step was to understand the dataset and explore what information it con
 4. Check for null values
 5. Exploratory Data Analysis (EDA)
 
-The dataset comes from the UCI Machine Learning repository link. The data is from a Portugese banking institution and is a collection of the results of multiple marketing campaigns.This data represents 17 marketing campaigns occurring between May 2008 and November 2010. The  UCI Machine Learning repository page states that there are no missing values, so therefore we moved on exploratory analysis. Exploratory data analysis led us drop the "duration" feature becuase this feature is only helpful for benchmark purposes and is not ideal for a realistic predictive model.Data preprocessing for categorical columns and numerical columns are needed as well.
+The dataset comes from the UCI Machine Learning repository link. The data is from a Portugese banking institution and is a collection of the results of multiple marketing campaigns. This data represents 17 marketing campaigns occurring between May 2008 and November 2010. The  UCI Machine Learning repository page states that there are no missing values, so therefore we moved on exploratory analysis. Exploratory data analysis led us drop the "duration" feature becuase this feature is only helpful for benchmark purposes and is not ideal for a realistic predictive model.Data preprocessing for categorical columns and numerical columns are needed as well.
 
 DATA ANALYSIS FINDINGS:
 
